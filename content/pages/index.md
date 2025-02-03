@@ -87,7 +87,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: How to Join a Minecraft Server
       color: text-primary
       styles:
         self:
