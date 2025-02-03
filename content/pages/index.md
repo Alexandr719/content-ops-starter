@@ -7,7 +7,7 @@ sections:
       text: Find minecraft servers?
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Minecraft servers offer an incredible variety of multiplayer experiences,
       from cooperative survival to competitive minigames and immersive
