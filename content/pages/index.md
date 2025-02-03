@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Minecraft servers offer an incredible variety of multiplayer experiences,
+      from cooperative survival to competitive minigames and immersive
+      roleplaying. Whether you’re looking to join an existing server or start
+      your own, the world of Minecraft multiplayer is filled with limitless
+      opportunities for adventure. So gather your friends, pick a server, and
+      start exploring!
     actions:
       - label: Minecraft servers list
         altText: ''
