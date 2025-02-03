@@ -141,7 +141,7 @@ sections:
         type: FeaturedItem
       - title: Click Join Server to start playing.
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
