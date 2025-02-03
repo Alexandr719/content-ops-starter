@@ -119,7 +119,7 @@ sections:
         type: FeaturedItem
       - title: Click Add Server and enter the server’s IP address and name.
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
