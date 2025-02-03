@@ -120,8 +120,7 @@ sections:
       - title: Click Add Server and enter the server’s IP address and name.
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
