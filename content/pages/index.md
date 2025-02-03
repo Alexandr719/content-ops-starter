@@ -119,7 +119,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Click Add Server and enter the server’s IP address and name.
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
