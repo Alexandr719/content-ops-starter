@@ -96,7 +96,7 @@ sections:
     subtitle: ''
     items:
       - title: Open Minecraft and go to the Multiplayer menu
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
