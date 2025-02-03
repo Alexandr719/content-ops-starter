@@ -118,7 +118,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Click Add Server and enter the server’s IP address and name.
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
