@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Minecraft servers list
         altText: ''
-        url: /
+        url: 'https://minecraftrating.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
