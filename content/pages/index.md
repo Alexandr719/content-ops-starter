@@ -95,7 +95,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: Open Minecraft and go to the Multiplayer menu
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
