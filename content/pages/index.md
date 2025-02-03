@@ -141,7 +141,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Click Join Server to start playing.
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
